@@ -3,6 +3,6 @@
 /// More dartdocs go here.
 library;
 
-export 'src/jwt_token_base.dart';
+export 'src/bearer_token_base.dart';
 
 // TODO: Export any libraries intended for clients of this package.

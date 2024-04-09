@@ -308,13 +308,13 @@
       "languageVersion": "2.19"
     },
     {
-      "name": "jwt_token",
+      "name": "bearer_token_package",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     }
   ],
-  "generated": "2024-04-09T09:16:08.457096Z",
+  "generated": "2024-04-09T11:37:22.250527Z",
   "generator": "pub",
   "generatorVersion": "3.3.0"
 }

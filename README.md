@@ -2,7 +2,6 @@ A package that generates a ready-made Bearer Token for you based on a secret key
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
 - Generating a Bearer Token with a lot of data.
 - Bearer Token parse with a lot of data
 - Generating a Bearer Token with a userId
@@ -16,7 +15,7 @@ Just add package in project.
 
 To generate a token with a userId, use `getToken`:
 ```dart
-String token = BearerToken.getUserIDToken('eboba', DateTime(2025), 'Your 32 length key..............')
+String token = BearerToken.getUserIDToken('something text', DateTime(2025), 'Your 32 length key..............')
 ```
 To parse a token with a lot of data, use `getData`:
 ```dart
