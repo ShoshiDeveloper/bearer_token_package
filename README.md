@@ -15,14 +15,14 @@ Just add package in project.
 
 To generate a token with a userId, use `getToken`:
 ```dart
-String token = BearerToken.getUserIDToken('something text', DateTime(2025), 'Your 32 length key..............')
+String token = BearerToken.getUserIDToken('something text', DateTime(2025), 'Your 16/24/32 length key')
 ```
 To parse a token with a lot of data, use `getData`:
 ```dart
-String data = BearerToken.getData(token, 'Your 32 length key..............');
+String data = BearerToken.getData(token, 'Your 16/24/32 length key');
 ```
 
-**Please note that the secret key must be 32 characters long**
+**Please note that the secret key must be 16/24/32 characters long**
 
 ## Additional information
 

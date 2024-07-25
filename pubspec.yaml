@@ -1,6 +1,6 @@
 name: bearer_token_package
 description: A package that generates a ready-made Bearer Token for you based on a secret key.
-version: 1.0.0+1
+version: 1.0.1
 repository: https://github.com/ShoshiDeveloper/bearer_token_package
 homepage: https://pub.dev/packages/bearer_token_package
 
