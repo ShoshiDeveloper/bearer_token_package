@@ -3,25 +3,31 @@
   "packages": [
     {
       "name": "_fe_analyzer_shared",
-      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/_fe_analyzer_shared-67.0.0",
+      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/_fe_analyzer_shared-68.0.0",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "_macros",
+      "rootUri": "file:///C:/FlutterDevelop/FlutterSDK/bin/cache/dart-sdk/pkg/_macros",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
     },
     {
       "name": "analyzer",
-      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/analyzer-6.4.1",
+      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/analyzer-6.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "args",
+      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/args-2.5.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
-      "name": "args",
-      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/args-2.4.2",
-      "packageUri": "lib/",
-      "languageVersion": "2.19"
-    },
-    {
       "name": "asn1lib",
-      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/asn1lib-1.5.2",
+      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/asn1lib-1.5.3",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -45,9 +51,9 @@
     },
     {
       "name": "collection",
-      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.18.0",
+      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.19.0",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.4"
     },
     {
       "name": "convert",
@@ -57,7 +63,7 @@
     },
     {
       "name": "coverage",
-      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/coverage-1.7.2",
+      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/coverage-1.8.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -99,9 +105,9 @@
     },
     {
       "name": "http_parser",
-      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/http_parser-4.0.2",
+      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/http_parser-4.1.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.4"
     },
     {
       "name": "io",
@@ -128,6 +134,12 @@
       "languageVersion": "2.19"
     },
     {
+      "name": "macros",
+      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/macros-0.1.0-main.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
       "name": "matcher",
       "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/matcher-0.12.16+1",
       "packageUri": "lib/",
@@ -135,7 +147,7 @@
     },
     {
       "name": "meta",
-      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.14.0",
+      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.15.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -165,9 +177,9 @@
     },
     {
       "name": "pointycastle",
-      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/pointycastle-3.8.0",
+      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/pointycastle-3.9.1",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.2"
     },
     {
       "name": "pool",
@@ -183,9 +195,9 @@
     },
     {
       "name": "shelf",
-      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/shelf-1.4.1",
+      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/shelf-1.4.2",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.4"
     },
     {
       "name": "shelf_packages_handler",
@@ -201,9 +213,9 @@
     },
     {
       "name": "shelf_web_socket",
-      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/shelf_web_socket-1.0.4",
+      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/shelf_web_socket-2.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.0"
     },
     {
       "name": "source_map_stack_trace",
@@ -237,9 +249,9 @@
     },
     {
       "name": "string_scanner",
-      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/string_scanner-1.2.0",
+      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/string_scanner-1.3.0",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.1"
     },
     {
       "name": "term_glyph",
@@ -249,21 +261,21 @@
     },
     {
       "name": "test",
-      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/test-1.25.3",
+      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/test-1.25.8",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.4"
     },
     {
       "name": "test_api",
-      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/test_api-0.7.1",
+      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/test_api-0.7.3",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.4"
     },
     {
       "name": "test_core",
-      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/test_core-0.6.1",
+      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/test_core-0.6.5",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.4"
     },
     {
       "name": "typed_data",
@@ -273,7 +285,7 @@
     },
     {
       "name": "vm_service",
-      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-14.2.0",
+      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-14.2.4",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
@@ -285,13 +297,19 @@
     },
     {
       "name": "web",
-      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/web-0.5.1",
+      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/web-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "web_socket",
+      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/web_socket-0.1.6",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
     {
       "name": "web_socket_channel",
-      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/web_socket_channel-2.4.5",
+      "rootUri": "file:///C:/Users/lobac/AppData/Local/Pub/Cache/hosted/pub.dev/web_socket_channel-3.0.1",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
@@ -311,10 +329,13 @@
       "name": "bearer_token_package",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "3.3"
+      "languageVersion": "3.4"
     }
   ],
-  "generated": "2024-04-09T11:37:22.250527Z",
+  "generated": "2024-07-25T15:03:11.850371Z",
   "generator": "pub",
-  "generatorVersion": "3.3.0"
+  "generatorVersion": "3.4.0",
+  "flutterRoot": "file:///C:/FlutterDevelop/FlutterSDK",
+  "flutterVersion": "3.22.0",
+  "pubCache": "file:///C:/Users/lobac/AppData/Local/Pub/Cache"
 }
